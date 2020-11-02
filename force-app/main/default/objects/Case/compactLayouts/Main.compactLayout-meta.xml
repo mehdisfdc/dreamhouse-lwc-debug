@@ -3,8 +3,6 @@
     <fullName>Main</fullName>
     <fields>AccountId</fields>
     <fields>AssetId</fields>
-    <fields>AssetWarrantyId</fields>
-    <fields>BusinessHoursId</fields>
     <fields>CaseNumber</fields>
     <fields>RecordTypeId</fields>
     <label>Main</label>
